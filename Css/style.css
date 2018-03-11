@@ -1,0 +1,16 @@
+html{
+    font-family: "avenir", sans-serif;
+}
+.cat {
+    background-image: url(https://static.pexels.com/photos/20787/pexels-photo.jpg);
+    width: 1200px;
+    height: 1200px;
+    background-size: cover;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 200px;
+    
+}
